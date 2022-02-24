@@ -2,3 +2,4 @@ Hi bob this is the sam text
 and here we are using the github.
 Lets go..
 Hey Come on...
+This is the branch inside the master.
